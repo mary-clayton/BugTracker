@@ -1,29 +1,57 @@
 # BugTracker
-## Project Created: 6/1/21
-### Version 1.0
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+## Description
 
-## Development server
+Bug Tracker is an application designed to help Software Developers keep track of potential bugs in their code and report it to their team.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Getting Started
 
-## Code scaffolding
+### Dependencies
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* NPM
+* Bootstrap
 
-## Build
+### Installing
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Clone Repo from here and make sure you fork it.
 
-## Running unit tests
+### Executing program
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Use 'Ng Serve' to execute program
+```    
+Remember to set host server or it will default to a 4200 Server.
 
-## Running end-to-end tests
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Help
 
-## Further help
+This program isn't complete so bugs may occur.
+```
+you may contact me to let me know of any bugs or fixes.
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Authors
+
+Contributors names and contact info
+
+Mary Clayton 
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## Versions
+1.0
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
